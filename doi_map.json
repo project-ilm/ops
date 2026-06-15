@@ -37,5 +37,655 @@
  },
  "interpretation.jpg": {
   "doi": "10.5281/zenodo.20702565"
+ },
+ "poster:certification.jpg": {
+  "doi": "10.5281/zenodo.20704259",
+  "title": "ILM Poster — certification",
+  "date": "2026-06-15"
+ },
+ "poster:cost-evm.jpg": {
+  "doi": "10.5281/zenodo.20704265",
+  "title": "ILM Poster — cost-evm",
+  "date": "2026-06-15"
+ },
+ "poster:interpretation.jpg": {
+  "doi": "10.5281/zenodo.20704275",
+  "title": "ILM Poster — interpretation",
+  "date": "2026-06-15"
+ },
+ "poster:master-pdd.jpg": {
+  "doi": "10.5281/zenodo.20704282",
+  "title": "ILM Poster — master-pdd",
+  "date": "2026-06-15"
+ },
+ "poster:pillar1-amortization.jpg": {
+  "doi": "10.5281/zenodo.20704294",
+  "title": "ILM Poster — pillar1-amortization",
+  "date": "2026-06-15"
+ },
+ "poster:pillar1-field.jpg": {
+  "doi": "10.5281/zenodo.20704296",
+  "title": "ILM Poster — pillar1-field",
+  "date": "2026-06-15"
+ },
+ "poster:pillar1-pdd.jpg": {
+  "doi": "10.5281/zenodo.20704298",
+  "title": "ILM Poster — pillar1-pdd",
+  "date": "2026-06-15"
+ },
+ "poster:pillar1-privacy.jpg": {
+  "doi": "10.5281/zenodo.20704300",
+  "title": "ILM Poster — pillar1-privacy",
+  "date": "2026-06-15"
+ },
+ "poster:pillar2-pdd.jpg": {
+  "doi": "10.5281/zenodo.20704304",
+  "title": "ILM Poster — pillar2-pdd",
+  "date": "2026-06-15"
+ },
+ "poster:research-agenda.jpg": {
+  "doi": "10.5281/zenodo.20704306",
+  "title": "ILM Poster — research-agenda",
+  "date": "2026-06-15"
+ },
+ "poster:scope-stack.jpg": {
+  "doi": "10.5281/zenodo.20704316",
+  "title": "ILM Poster — scope-stack",
+  "date": "2026-06-15"
+ },
+ "poster:two-pillar-relationship.jpg": {
+  "doi": "10.5281/zenodo.20704322",
+  "title": "ILM Poster — two-pillar-relationship",
+  "date": "2026-06-15"
+ },
+ "poster:vision-protocol.jpg": {
+  "doi": "10.5281/zenodo.20704326",
+  "title": "ILM Poster — vision-protocol",
+  "date": "2026-06-15"
+ },
+ "poster:canonical-theory.jpg": {
+  "doi": "10.5281/zenodo.20704330",
+  "title": "ILM Poster — canonical-theory",
+  "date": "2026-06-15"
+ },
+ "poster:cognitive-science.jpg": {
+  "doi": "10.5281/zenodo.20704334",
+  "title": "ILM Poster — cognitive-science",
+  "date": "2026-06-15"
+ },
+ "poster:cross-script-1.jpg": {
+  "doi": "10.5281/zenodo.20704342",
+  "title": "ILM Poster — cross-script-1",
+  "date": "2026-06-15"
+ },
+ "poster:cross-script-2.jpg": {
+  "doi": "10.5281/zenodo.20704349",
+  "title": "ILM Poster — cross-script-2",
+  "date": "2026-06-15"
+ },
+ "poster:cs-factorization.jpg": {
+  "doi": "10.5281/zenodo.20704353",
+  "title": "ILM Poster — cs-factorization",
+  "date": "2026-06-15"
+ },
+ "poster:formal-language.jpg": {
+  "doi": "10.5281/zenodo.20704363",
+  "title": "ILM Poster — formal-language",
+  "date": "2026-06-15"
+ },
+ "poster:ilm-architecture.jpg": {
+  "doi": "10.5281/zenodo.20704373",
+  "title": "ILM Poster — ilm-architecture",
+  "date": "2026-06-15"
+ },
+ "poster:information-theory.jpg": {
+  "doi": "10.5281/zenodo.20704380",
+  "title": "ILM Poster — information-theory",
+  "date": "2026-06-15"
+ },
+ "poster:neurolinguistics.jpg": {
+  "doi": "10.5281/zenodo.20704385",
+  "title": "ILM Poster — neurolinguistics",
+  "date": "2026-06-15"
+ },
+ "poster:psycholinguistics.jpg": {
+  "doi": "10.5281/zenodo.20704389",
+  "title": "ILM Poster — psycholinguistics",
+  "date": "2026-06-15"
+ },
+ "pkg:ajami": {
+  "doi": "10.5281/zenodo.20704392",
+  "title": "ILM Shaili Package — ajami (ajami)",
+  "date": "2026-06-15"
+ },
+ "pkg:arabic": {
+  "doi": "10.5281/zenodo.20704396",
+  "title": "ILM Shaili Package — arabic (arabic)",
+  "date": "2026-06-15"
+ },
+ "pkg:aramaic": {
+  "doi": "10.5281/zenodo.20704399",
+  "title": "ILM Shaili Package — aramaic (aramaic)",
+  "date": "2026-06-15"
+ },
+ "pkg:ar": {
+  "doi": "10.5281/zenodo.20704406",
+  "title": "ILM Shaili Package — Arabic (ar)",
+  "date": "2026-06-15"
+ },
+ "pkg:assamese": {
+  "doi": "10.5281/zenodo.20704409",
+  "title": "ILM Shaili Package — assamese (assamese)",
+  "date": "2026-06-15"
+ },
+ "pkg:awadhi": {
+  "doi": "10.5281/zenodo.20704413",
+  "title": "ILM Shaili Package — awadhi (awadhi)",
+  "date": "2026-06-15"
+ },
+ "pkg:azb": {
+  "doi": "10.5281/zenodo.20704419",
+  "title": "ILM Shaili Package — South Azerbaijani (azb)",
+  "date": "2026-06-15"
+ },
+ "pkg:balinese": {
+  "doi": "10.5281/zenodo.20704427",
+  "title": "ILM Shaili Package — balinese (balinese)",
+  "date": "2026-06-15"
+ },
+ "pkg:balochi": {
+  "doi": "10.5281/zenodo.20704433",
+  "title": "ILM Shaili Package — balochi (balochi)",
+  "date": "2026-06-15"
+ },
+ "pkg:bal": {
+  "doi": "10.5281/zenodo.20704435",
+  "title": "ILM Shaili Package — Balochi (bal)",
+  "date": "2026-06-15"
+ },
+ "pkg:batak": {
+  "doi": "10.5281/zenodo.20704440",
+  "title": "ILM Shaili Package — batak (batak)",
+  "date": "2026-06-15"
+ },
+ "pkg:bengali": {
+  "doi": "10.5281/zenodo.20704442",
+  "title": "ILM Shaili Package — bengali (bengali)",
+  "date": "2026-06-15"
+ },
+ "pkg:beng": {
+  "doi": "10.5281/zenodo.20704446",
+  "title": "ILM Shaili Package — beng (beng)",
+  "date": "2026-06-15"
+ },
+ "pkg:bft": {
+  "doi": "10.5281/zenodo.20704452",
+  "title": "ILM Shaili Package — Balti (bft)",
+  "date": "2026-06-15"
+ },
+ "pkg:bhojpuri": {
+  "doi": "10.5281/zenodo.20704454",
+  "title": "ILM Shaili Package — Bhojpuri (bhojpuri)",
+  "date": "2026-06-15"
+ },
+ "pkg:bodo": {
+  "doi": "10.5281/zenodo.20704464",
+  "title": "ILM Shaili Package — bodo (bodo)",
+  "date": "2026-06-15"
+ },
+ "pkg:brh": {
+  "doi": "10.5281/zenodo.20704466",
+  "title": "ILM Shaili Package — Brahui (brh)",
+  "date": "2026-06-15"
+ },
+ "pkg:buginese": {
+  "doi": "10.5281/zenodo.20704471",
+  "title": "ILM Shaili Package — buginese (buginese)",
+  "date": "2026-06-15"
+ },
+ "pkg:burmese": {
+  "doi": "10.5281/zenodo.20704473",
+  "title": "ILM Shaili Package — burmese (burmese)",
+  "date": "2026-06-15"
+ },
+ "pkg:chhattisgarhi": {
+  "doi": "10.5281/zenodo.20704479",
+  "title": "ILM Shaili Package — chhattisgarhi (chhattisgarhi)",
+  "date": "2026-06-15"
+ },
+ "pkg:dari": {
+  "doi": "10.5281/zenodo.20704481",
+  "title": "ILM Shaili Package — dari (dari)",
+  "date": "2026-06-15"
+ },
+ "pkg:dev": {
+  "doi": "10.5281/zenodo.20704486",
+  "title": "ILM Shaili Package — dev (dev)",
+  "date": "2026-06-15"
+ },
+ "pkg:dogri": {
+  "doi": "10.5281/zenodo.20704492",
+  "title": "ILM Shaili Package — dogri (dogri)",
+  "date": "2026-06-15"
+ },
+ "pkg:dzongkha": {
+  "doi": "10.5281/zenodo.20704498",
+  "title": "ILM Shaili Package — dzongkha (dzongkha)",
+  "date": "2026-06-15"
+ },
+ "pkg:fa": {
+  "doi": "10.5281/zenodo.20704504",
+  "title": "ILM Shaili Package — Persian (fa)",
+  "date": "2026-06-15"
+ },
+ "pkg:ff_aj": {
+  "doi": "10.5281/zenodo.20704506",
+  "title": "ILM Shaili Package — Fula (Ajami) (ff_aj)",
+  "date": "2026-06-15"
+ },
+ "pkg:glk": {
+  "doi": "10.5281/zenodo.20704509",
+  "title": "ILM Shaili Package — Gilaki (glk)",
+  "date": "2026-06-15"
+ },
+ "pkg:gujarati": {
+  "doi": "10.5281/zenodo.20704513",
+  "title": "ILM Shaili Package — gujarati (gujarati)",
+  "date": "2026-06-15"
+ },
+ "pkg:ha_aj": {
+  "doi": "10.5281/zenodo.20704515",
+  "title": "ILM Shaili Package — Hausa (Ajami) (ha_aj)",
+  "date": "2026-06-15"
+ },
+ "pkg:haz": {
+  "doi": "10.5281/zenodo.20704521",
+  "title": "ILM Shaili Package — Hazaragi (haz)",
+  "date": "2026-06-15"
+ },
+ "pkg:hebrew": {
+  "doi": "10.5281/zenodo.20704524",
+  "title": "ILM Shaili Package — hebrew (hebrew)",
+  "date": "2026-06-15"
+ },
+ "pkg:hnd": {
+  "doi": "10.5281/zenodo.20704529",
+  "title": "ILM Shaili Package — Hindko (hnd)",
+  "date": "2026-06-15"
+ },
+ "pkg:javanese": {
+  "doi": "10.5281/zenodo.20704535",
+  "title": "ILM Shaili Package — javanese (javanese)",
+  "date": "2026-06-15"
+ },
+ "pkg:jawi": {
+  "doi": "10.5281/zenodo.20704539",
+  "title": "ILM Shaili Package — jawi (jawi)",
+  "date": "2026-06-15"
+ },
+ "pkg:jpr": {
+  "doi": "10.5281/zenodo.20704541",
+  "title": "ILM Shaili Package — Judeo-Persian (jpr)",
+  "date": "2026-06-15"
+ },
+ "pkg:jrb": {
+  "doi": "10.5281/zenodo.20704545",
+  "title": "ILM Shaili Package — Judeo-Arabic (jrb)",
+  "date": "2026-06-15"
+ },
+ "pkg:kannada": {
+  "doi": "10.5281/zenodo.20704550",
+  "title": "ILM Shaili Package — kannada (kannada)",
+  "date": "2026-06-15"
+ },
+ "pkg:kashmiri": {
+  "doi": "10.5281/zenodo.20704554",
+  "title": "ILM Shaili Package — kashmiri (kashmiri)",
+  "date": "2026-06-15"
+ },
+ "pkg:khmer": {
+  "doi": "10.5281/zenodo.20704558",
+  "title": "ILM Shaili Package — khmer (khmer)",
+  "date": "2026-06-15"
+ },
+ "pkg:khw": {
+  "doi": "10.5281/zenodo.20704564",
+  "title": "ILM Shaili Package — Khowar (khw)",
+  "date": "2026-06-15"
+ },
+ "pkg:kk_arab": {
+  "doi": "10.5281/zenodo.20704566",
+  "title": "ILM Shaili Package — Kazakh (Arabic) (kk_arab)",
+  "date": "2026-06-15"
+ },
+ "pkg:konkani": {
+  "doi": "10.5281/zenodo.20704571",
+  "title": "ILM Shaili Package — konkani (konkani)",
+  "date": "2026-06-15"
+ },
+ "pkg:kr_arab": {
+  "doi": "10.5281/zenodo.20704575",
+  "title": "ILM Shaili Package — Kanuri (Arabic) (kr_arab)",
+  "date": "2026-06-15"
+ },
+ "pkg:ks": {
+  "doi": "10.5281/zenodo.20704577",
+  "title": "ILM Shaili Package — Kashmiri (ks)",
+  "date": "2026-06-15"
+ },
+ "pkg:ku_kmr_pa": {
+  "doi": "10.5281/zenodo.20704579",
+  "title": "ILM Shaili Package — Kurdish (Kurmanji, PA) (ku_kmr_pa)",
+  "date": "2026-06-15"
+ },
+ "pkg:ku_sor": {
+  "doi": "10.5281/zenodo.20704583",
+  "title": "ILM Shaili Package — Kurdish (Sorani) (ku_sor)",
+  "date": "2026-06-15"
+ },
+ "pkg:ky_arab": {
+  "doi": "10.5281/zenodo.20704586",
+  "title": "ILM Shaili Package — Kyrgyz (Arabic) (ky_arab)",
+  "date": "2026-06-15"
+ },
+ "pkg:lao": {
+  "doi": "10.5281/zenodo.20704590",
+  "title": "ILM Shaili Package — lao (lao)",
+  "date": "2026-06-15"
+ },
+ "pkg:lepcha": {
+  "doi": "10.5281/zenodo.20704594",
+  "title": "ILM Shaili Package — lepcha (lepcha)",
+  "date": "2026-06-15"
+ },
+ "pkg:limbu": {
+  "doi": "10.5281/zenodo.20704598",
+  "title": "ILM Shaili Package — limbu (limbu)",
+  "date": "2026-06-15"
+ },
+ "pkg:lrc": {
+  "doi": "10.5281/zenodo.20704603",
+  "title": "ILM Shaili Package — Northern Luri (lrc)",
+  "date": "2026-06-15"
+ },
+ "pkg:magahi": {
+  "doi": "10.5281/zenodo.20704605",
+  "title": "ILM Shaili Package — magahi (magahi)",
+  "date": "2026-06-15"
+ },
+ "pkg:maithili": {
+  "doi": "10.5281/zenodo.20704609",
+  "title": "ILM Shaili Package — maithili (maithili)",
+  "date": "2026-06-15"
+ },
+ "pkg:malayalam": {
+  "doi": "10.5281/zenodo.20704611",
+  "title": "ILM Shaili Package — malayalam (malayalam)",
+  "date": "2026-06-15"
+ },
+ "pkg:mandaic": {
+  "doi": "10.5281/zenodo.20704618",
+  "title": "ILM Shaili Package — mandaic (mandaic)",
+  "date": "2026-06-15"
+ },
+ "pkg:marathi": {
+  "doi": "10.5281/zenodo.20704622",
+  "title": "ILM Shaili Package — marathi (marathi)",
+  "date": "2026-06-15"
+ },
+ "pkg:marwari": {
+  "doi": "10.5281/zenodo.20704626",
+  "title": "ILM Shaili Package — marwari (marwari)",
+  "date": "2026-06-15"
+ },
+ "pkg:mnk_aj": {
+  "doi": "10.5281/zenodo.20704628",
+  "title": "ILM Shaili Package — Mandinka (Ajami) (mnk_aj)",
+  "date": "2026-06-15"
+ },
+ "pkg:ms_jawi": {
+  "doi": "10.5281/zenodo.20704630",
+  "title": "ILM Shaili Package — Malay (Jawi) (ms_jawi)",
+  "date": "2026-06-15"
+ },
+ "pkg:mzn": {
+  "doi": "10.5281/zenodo.20704635",
+  "title": "ILM Shaili Package — Mazanderani (mzn)",
+  "date": "2026-06-15"
+ },
+ "pkg:nabataean": {
+  "doi": "10.5281/zenodo.20704639",
+  "title": "ILM Shaili Package — nabataean (nabataean)",
+  "date": "2026-06-15"
+ },
+ "pkg:nepali": {
+  "doi": "10.5281/zenodo.20704641",
+  "title": "ILM Shaili Package — nepali (nepali)",
+  "date": "2026-06-15"
+ },
+ "pkg:newari": {
+  "doi": "10.5281/zenodo.20704645",
+  "title": "ILM Shaili Package — newari (newari)",
+  "date": "2026-06-15"
+ },
+ "pkg:odia": {
+  "doi": "10.5281/zenodo.20704647",
+  "title": "ILM Shaili Package — odia (odia)",
+  "date": "2026-06-15"
+ },
+ "pkg:ota": {
+  "doi": "10.5281/zenodo.20704649",
+  "title": "ILM Shaili Package — Ottoman Turkish (ota)",
+  "date": "2026-06-15"
+ },
+ "pkg:pali": {
+  "doi": "10.5281/zenodo.20704651",
+  "title": "ILM Shaili Package — pali (pali)",
+  "date": "2026-06-15"
+ },
+ "pkg:pa_sh": {
+  "doi": "10.5281/zenodo.20704653",
+  "title": "ILM Shaili Package — Punjabi (Shahmukhi) (pa_sh)",
+  "date": "2026-06-15"
+ },
+ "pkg:pashto": {
+  "doi": "10.5281/zenodo.20704659",
+  "title": "ILM Shaili Package — pashto (pashto)",
+  "date": "2026-06-15"
+ },
+ "pkg:persian": {
+  "doi": "10.5281/zenodo.20704663",
+  "title": "ILM Shaili Package — persian (persian)",
+  "date": "2026-06-15"
+ },
+ "pkg:phoenician": {
+  "doi": "10.5281/zenodo.20704665",
+  "title": "ILM Shaili Package — phoenician (phoenician)",
+  "date": "2026-06-15"
+ },
+ "pkg:prakrit": {
+  "doi": "10.5281/zenodo.20704667",
+  "title": "ILM Shaili Package — prakrit (prakrit)",
+  "date": "2026-06-15"
+ },
+ "pkg:prs": {
+  "doi": "10.5281/zenodo.20704669",
+  "title": "ILM Shaili Package — Dari (prs)",
+  "date": "2026-06-15"
+ },
+ "pkg:punjabi": {
+  "doi": "10.5281/zenodo.20704671",
+  "title": "ILM Shaili Package — punjabi (punjabi)",
+  "date": "2026-06-15"
+ },
+ "pkg:rajasthani": {
+  "doi": "10.5281/zenodo.20704675",
+  "title": "ILM Shaili Package — rajasthani (rajasthani)",
+  "date": "2026-06-15"
+ },
+ "pkg:rhg": {
+  "doi": "10.5281/zenodo.20704677",
+  "title": "ILM Shaili Package — Rohingya (rhg)",
+  "date": "2026-06-15"
+ },
+ "pkg:samaritan": {
+  "doi": "10.5281/zenodo.20704679",
+  "title": "ILM Shaili Package — samaritan (samaritan)",
+  "date": "2026-06-15"
+ },
+ "pkg:sanskrit": {
+  "doi": "10.5281/zenodo.20704681",
+  "title": "ILM Shaili Package — sanskrit (sanskrit)",
+  "date": "2026-06-15"
+ },
+ "pkg:santali": {
+  "doi": "10.5281/zenodo.20704685",
+  "title": "ILM Shaili Package — santali (santali)",
+  "date": "2026-06-15"
+ },
+ "pkg:saraiki": {
+  "doi": "10.5281/zenodo.20704689",
+  "title": "ILM Shaili Package — saraiki (saraiki)",
+  "date": "2026-06-15"
+ },
+ "pkg:scl": {
+  "doi": "10.5281/zenodo.20704691",
+  "title": "ILM Shaili Package — Shina (scl)",
+  "date": "2026-06-15"
+ },
+ "pkg:sd": {
+  "doi": "10.5281/zenodo.20704695",
+  "title": "ILM Shaili Package — Sindhi (sd)",
+  "date": "2026-06-15"
+ },
+ "pkg:shahmukhi": {
+  "doi": "10.5281/zenodo.20704699",
+  "title": "ILM Shaili Package — shahmukhi (shahmukhi)",
+  "date": "2026-06-15"
+ },
+ "pkg:shan": {
+  "doi": "10.5281/zenodo.20704705",
+  "title": "ILM Shaili Package — shan (shan)",
+  "date": "2026-06-15"
+ },
+ "pkg:sindhi": {
+  "doi": "10.5281/zenodo.20704710",
+  "title": "ILM Shaili Package — sindhi (sindhi)",
+  "date": "2026-06-15"
+ },
+ "pkg:sinhala": {
+  "doi": "10.5281/zenodo.20704712",
+  "title": "ILM Shaili Package — sinhala (sinhala)",
+  "date": "2026-06-15"
+ },
+ "pkg:skr": {
+  "doi": "10.5281/zenodo.20704719",
+  "title": "ILM Shaili Package — Saraiki (skr)",
+  "date": "2026-06-15"
+ },
+ "pkg:so_arab": {
+  "doi": "10.5281/zenodo.20704722",
+  "title": "ILM Shaili Package — Somali (Arabic) (so_arab)",
+  "date": "2026-06-15"
+ },
+ "pkg:sorani": {
+  "doi": "10.5281/zenodo.20704726",
+  "title": "ILM Shaili Package — sorani (sorani)",
+  "date": "2026-06-15"
+ },
+ "pkg:sundanese": {
+  "doi": "10.5281/zenodo.20704730",
+  "title": "ILM Shaili Package — sundanese (sundanese)",
+  "date": "2026-06-15"
+ },
+ "pkg:sw_aj": {
+  "doi": "10.5281/zenodo.20704738",
+  "title": "ILM Shaili Package — Swahili (Ajami) (sw_aj)",
+  "date": "2026-06-15"
+ },
+ "pkg:syr_gar": {
+  "doi": "10.5281/zenodo.20704745",
+  "title": "ILM Shaili Package — Syriac (Garshuni) (syr_gar)",
+  "date": "2026-06-15"
+ },
+ "pkg:syriac": {
+  "doi": "10.5281/zenodo.20704749",
+  "title": "ILM Shaili Package — syriac (syriac)",
+  "date": "2026-06-15"
+ },
+ "pkg:tagalog": {
+  "doi": "10.5281/zenodo.20704751",
+  "title": "ILM Shaili Package — tagalog (tagalog)",
+  "date": "2026-06-15"
+ },
+ "pkg:tamil": {
+  "doi": "10.5281/zenodo.20704757",
+  "title": "ILM Shaili Package — tamil (tamil)",
+  "date": "2026-06-15"
+ },
+ "pkg:tat": {
+  "doi": "10.5281/zenodo.20704759",
+  "title": "ILM Shaili Package — Tatar (tat)",
+  "date": "2026-06-15"
+ },
+ "pkg:telugu": {
+  "doi": "10.5281/zenodo.20704761",
+  "title": "ILM Shaili Package — telugu (telugu)",
+  "date": "2026-06-15"
+ },
+ "pkg:tg_pa": {
+  "doi": "10.5281/zenodo.20704763",
+  "title": "ILM Shaili Package — Tajik (PA) (tg_pa)",
+  "date": "2026-06-15"
+ },
+ "pkg:thai": {
+  "doi": "10.5281/zenodo.20704771",
+  "title": "ILM Shaili Package — thai (thai)",
+  "date": "2026-06-15"
+ },
+ "pkg:tibetan": {
+  "doi": "10.5281/zenodo.20704773",
+  "title": "ILM Shaili Package — tibetan (tibetan)",
+  "date": "2026-06-15"
+ },
+ "pkg:tk_arab": {
+  "doi": "10.5281/zenodo.20704779",
+  "title": "ILM Shaili Package — Turkmen (Arabic) (tk_arab)",
+  "date": "2026-06-15"
+ },
+ "pkg:tulu": {
+  "doi": "10.5281/zenodo.20704783",
+  "title": "ILM Shaili Package — tulu (tulu)",
+  "date": "2026-06-15"
+ },
+ "pkg:ug": {
+  "doi": "10.5281/zenodo.20704785",
+  "title": "ILM Shaili Package — Uyghur (ug)",
+  "date": "2026-06-15"
+ },
+ "pkg:urdu": {
+  "doi": "10.5281/zenodo.20704787",
+  "title": "ILM Shaili Package — urdu (urdu)",
+  "date": "2026-06-15"
+ },
+ "pkg:ur": {
+  "doi": "10.5281/zenodo.20704789",
+  "title": "ILM Shaili Package — Urdu (ur)",
+  "date": "2026-06-15"
+ },
+ "pkg:uyghur": {
+  "doi": "10.5281/zenodo.20704795",
+  "title": "ILM Shaili Package — uyghur (uyghur)",
+  "date": "2026-06-15"
+ },
+ "pkg:wbl": {
+  "doi": "10.5281/zenodo.20704806",
+  "title": "ILM Shaili Package — Wakhi (wbl)",
+  "date": "2026-06-15"
+ },
+ "pkg:wo_aj": {
+  "doi": "10.5281/zenodo.20704808",
+  "title": "ILM Shaili Package — Wolof (Ajami) (wo_aj)",
+  "date": "2026-06-15"
  }
 }

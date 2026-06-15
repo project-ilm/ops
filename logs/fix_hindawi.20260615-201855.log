@@ -1,0 +1,29 @@
+== fix_hindawi_mappings Mon Jun 15 08:18:55 PM IST 2026 ==
+Switched to a new branch 'ai/fix-hindawi-mappings'
+[hi] rebuilt from Hindawi lexers: hosts=['c'] entries=322
+[hi] shipped lexers + 9 sample programs
+--- verify: real coverage now in the Hindi C map ---
+  has stdio.h -> मानकपन.स
+  has #include -> #समावेश
+  has printf -> म_लिखो
+  has while -> जबतक
+  has for -> क्रम
+  has return -> वापस
+  has int -> पूर्णांक
+  has void -> व्योम
+  has struct -> काष्ठा
+  total C entries: 322
+reverted corrupted spec dir: hi/
+reverted corrupted spec dir: ur/
+reverted corrupted spec dir: fa/
+remote: 
+remote: Create a pull request for 'ai/fix-hindawi-mappings' on GitHub by visiting:        
+remote:      https://github.com/project-ilm/language-specs/pull/new/ai/fix-hindawi-mappings        
+remote: 
+To https://github.com/project-ilm/language-specs.git
+ * [new branch]      ai/fix-hindawi-mappings -> ai/fix-hindawi-mappings
+branch 'ai/fix-hindawi-mappings' set up to track 'origin/ai/fix-hindawi-mappings'.
+Warning: 4 uncommitted changes
+https://github.com/project-ilm/language-specs/pull/3
+>> review the diff, then:  gh pr merge ai/fix-hindawi-mappings -R project-ilm/language-specs --squash --delete-branch
+retired thin DOI pkg:hi -> 10.5281/zenodo.20704527 (mark it superseded on Zenodo; corrected pkg will re-mint)

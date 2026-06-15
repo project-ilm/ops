@@ -12,3 +12,11 @@ branch 'ai/release-packages' set up to track 'origin/ai/release-packages'.
 Warning: 4 uncommitted changes
 https://github.com/project-ilm/language-specs/pull/2
 >> review the diff, then:  gh pr merge ai/release-packages -R project-ilm/language-specs --squash --delete-branch
+
+== release_build done. log: /home/abhishek-choudhary/work/11jun/ops/logs/release_build.20260615-195251.log ==
+Now (detached, keeps your laptop busy while we work):
+  echo 'YOUR_NEW_TOKEN' > /home/abhishek-choudhary/work/11jun/ops/.zenodo_token   # rotate first; file is gitignored
+  bash /home/abhishek-choudhary/work/11jun/ops/bin/ilmd.sh start
+  bash /home/abhishek-choudhary/work/11jun/ops/bin/ilmd.sh add 'bash /home/abhishek-choudhary/work/11jun/ops/bin/mint_release_dois.sh'
+  bash /home/abhishek-choudhary/work/11jun/ops/bin/ilmd.sh status     # check anytime
+Then merge: gh pr merge ai/release-packages -R project-ilm/language-specs --squash --delete-branch
