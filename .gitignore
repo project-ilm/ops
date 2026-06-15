@@ -1,2 +1,5 @@
 *.tar.gz
 *.zip
+.zenodo_token
+queue.txt
+ilmd.status

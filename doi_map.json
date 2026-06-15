@@ -1,0 +1,41 @@
+{
+ "master-pdd.jpg": {
+  "doi": "10.5281/zenodo.20702507"
+ },
+ "pillar1-pdd.jpg": {
+  "doi": "10.5281/zenodo.20702513"
+ },
+ "pillar2-pdd.jpg": {
+  "doi": "10.5281/zenodo.20702515"
+ },
+ "two-pillar-relationship.jpg": {
+  "doi": "10.5281/zenodo.20702523"
+ },
+ "vision-protocol.jpg": {
+  "doi": "10.5281/zenodo.20702529"
+ },
+ "scope-stack.jpg": {
+  "doi": "10.5281/zenodo.20702534"
+ },
+ "research-agenda.jpg": {
+  "doi": "10.5281/zenodo.20702540"
+ },
+ "pillar1-field.jpg": {
+  "doi": "10.5281/zenodo.20702542"
+ },
+ "pillar1-privacy.jpg": {
+  "doi": "10.5281/zenodo.20702545"
+ },
+ "pillar1-amortization.jpg": {
+  "doi": "10.5281/zenodo.20702547"
+ },
+ "cost-evm.jpg": {
+  "doi": "10.5281/zenodo.20702553"
+ },
+ "certification.jpg": {
+  "doi": "10.5281/zenodo.20702557"
+ },
+ "interpretation.jpg": {
+  "doi": "10.5281/zenodo.20702565"
+ }
+}

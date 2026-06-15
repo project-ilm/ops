@@ -1,0 +1,14 @@
+== release_build Mon Jun 15 07:52:51 PM IST 2026 ==
+Switched to a new branch 'ai/release-packages'
+packages: 108  | total keyword entries: 9133
+families: ['Brahmi (Devanagari)', 'Perso-Arabic']
+remote: 
+remote: Create a pull request for 'ai/release-packages' on GitHub by visiting:        
+remote:      https://github.com/project-ilm/language-specs/pull/new/ai/release-packages        
+remote: 
+To https://github.com/project-ilm/language-specs.git
+ * [new branch]      ai/release-packages -> ai/release-packages
+branch 'ai/release-packages' set up to track 'origin/ai/release-packages'.
+Warning: 4 uncommitted changes
+https://github.com/project-ilm/language-specs/pull/2
+>> review the diff, then:  gh pr merge ai/release-packages -R project-ilm/language-specs --squash --delete-branch
