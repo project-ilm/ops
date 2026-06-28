@@ -79,6 +79,23 @@ blindly. String insertions check their anchor exists exactly once first.
 
 ---
 
+## C8 — Gated at every boundary (zero drift)
+
+These contracts are enforced mechanically by `bin/contract_check.sh` (the FPSS
+gate) and re-verified at **every** handoff — agent→agent, agent→human,
+human→human. No artifact crosses an edge with a failing gate.
+
+- The producing party runs the gate and records the PASS in the handoff/PR note.
+- The receiving party re-runs it (never trusts the claim) and, if an AI, restates
+  these contracts in its own words before acting — a fresh agent re-derives the
+  contract rather than inheriting an assumed one.
+- A secret that appears in any transcript, log, or PR is treated as compromised
+  and rotated immediately; detection is assumed imperfect, so exposure ⇒ rotation.
+
+Rationale, methods, and the failure dataset are in `PROCESS_HARDENING.md`
+(FPSS objective, INCOSE ilities, FMECA, FTA, HAZOP). That document and this one
+are the contract; the checker is its enforcement.
+
 ## The one-line test
 
 > If I hand this artifact to a collaborator who shares none of my state — no
