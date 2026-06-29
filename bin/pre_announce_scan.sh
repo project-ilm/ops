@@ -5,7 +5,7 @@
 #  (github.com/project-ilm/spi-scan) across every repo and local tree, then
 #  aggregates to a single PASS/FAIL. No HIGH findings anywhere => clear to go.
 #
-#  Install spi-scan the PEP 668 way first:  pipx install spi-scan
+#  Install spi-scan the PEP 668 way first:  pipx install git+https://github.com/project-ilm/spi-scan.git
 #
 #  Usage:
 #     pre_announce_scan.sh --org project-ilm           scan every repo in an org (gh metadata + history)
@@ -25,7 +25,7 @@ say(){ printf '\n\033[1;33m=== %s ===\033[0m\n' "$*"; }
 loud(){ printf '\033[1;36m  %s\033[0m\n' "$*"; }
 warn(){ printf '\033[1;31m  !! %s\033[0m\n' "$*"; }
 
-command -v spi-scan >/dev/null 2>&1 || { warn "spi-scan not installed -> pipx install spi-scan"; exit 1; }
+command -v spi-scan >/dev/null 2>&1 || { warn "spi-scan not installed -> pipx install git+https://github.com/project-ilm/spi-scan.git"; exit 1; }
 HIGH_TOTAL=0
 WORK="$(mktemp -d)"; REPORT="${PWD}/spi_preannounce_report.json"
 echo '{"scanned":[],"high_total":0}' > "$REPORT"
