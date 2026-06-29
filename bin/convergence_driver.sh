@@ -9,7 +9,7 @@
 #  (discover_all, dedupe_scan, pre_announce_scan, contract_check) — pulling the
 #  latest each run so it never drifts from the repo.
 #
-#  Prereqs (it checks and tells you):  gh auth login ;  pipx install spi-scan
+#  Prereqs (it checks and tells you):  gh auth login ;  pipx install git+https://github.com/project-ilm/spi-scan.git
 #
 #  Usage:
 #     convergence_driver.sh                      one full sweep -> ./convergence-runs/<ts>/
@@ -70,7 +70,7 @@ one_sweep(){
         "$OPSDIR/bin/pre_announce_scan.sh" --org "$org" >/dev/null 2>&1 || SPI_FAIL=$((SPI_FAIL+1))
       done < "$RUN/namespaces.txt"
       [ -f spi_preannounce_report.json ] && mv spi_preannounce_report.json "$RUN/" || true
-    else warn "spi-scan not installed (pipx install spi-scan) — SPI step skipped"; fi
+    else warn "spi-scan not installed (pipx install git+https://github.com/project-ilm/spi-scan.git) — SPI step skipped"; fi
   fi
 
   # consolidated STATUS
